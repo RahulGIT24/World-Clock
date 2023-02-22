@@ -1,0 +1,14 @@
+.alarmBox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.alarmBox label,input{
+    margin-left: 12px;
+}
+
+#alarm{
+    padding: 6px 15px;
+}
